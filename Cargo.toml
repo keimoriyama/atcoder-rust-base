@@ -10,6 +10,26 @@ edition = "2018"
 name = "main"
 path = "src/main.rs"
 
+[[a]]
+name='a'
+path='src/a.rs'
+
+[[b]]
+name='b'
+path='src/b.rs'
+
+[[c]]
+name='c'
+path='src/c.rs'
+
+[[d]]
+name='d'
+path='src/d.rs'
+
+[[e]]
+name='e'
+path='src/e.rs'
+
 [dependencies]
 # AtCoder 2020年言語アップデート以降に使用できるクレート。
 # 次のページに各クレートについての細かい紹介があります。
