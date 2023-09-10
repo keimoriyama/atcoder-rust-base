@@ -10,23 +10,23 @@ edition = "2018"
 name = "main"
 path = "src/main.rs"
 
-[[a]]
+[[bin]]
 name='a'
 path='src/a.rs'
 
-[[b]]
+[[bin]]
 name='b'
 path='src/b.rs'
 
-[[c]]
+[[bin]]
 name='c'
 path='src/c.rs'
 
-[[d]]
+[[bin]]
 name='d'
 path='src/d.rs'
 
-[[e]]
+[[bin]]
 name='e'
 path='src/e.rs'
 
